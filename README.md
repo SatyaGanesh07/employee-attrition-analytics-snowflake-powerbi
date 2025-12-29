@@ -9,7 +9,7 @@ CSV → Snowflake Data Warehouse → Dimensional Model → Power BI Semantic Mod
 
 ## 🔗 Live Dashboard
 
-👉 [  View   ](https://app.powerbi.com/view?r=eyJrIjoiNDlkYWFhNzQtN2Q2NC00OWZjLTk5ZWUtNzQ5NmZlN2QyMDc0IiwidCI6ImRjODhkNWNiLWMxMjEtNDUzYi1hMGRiLTFmMzlmYjEyMjJiMyJ9)
+Explore the interactive dashboard here:👉 [  View   ](https://app.powerbi.com/view?r=eyJrIjoiNDlkYWFhNzQtN2Q2NC00OWZjLTk5ZWUtNzQ5NmZlN2QyMDc0IiwidCI6ImRjODhkNWNiLWMxMjEtNDUzYi1hMGRiLTFmMzlmYjEyMjJiMyJ9)
 
 ---
 
@@ -75,6 +75,7 @@ Power BI (Import Mode)
    ↓
 Interactive HR Analytics Dashboards
 ```
+![image alt](https://github.com/SatyaGanesh07/employee-attrition-analytics-snowflake-powerbi/blob/243cce7ce44af171dd6f66173152de144823d4fc/Dashboard/Architecture.png)
 
 ---
 
@@ -140,54 +141,28 @@ This layered approach ensures **traceability, auditability, and scalability**.
 
 ## Dashboard Overview (3 Pages)
 
-### 1️⃣ Overview
+### 1️) Overview
 
 **Purpose:** Executive-level snapshot of workforce health
 
-**Key Features:**
-
-* Total Employees
-* Attrition Rate %
-* Attrition Count
-* Average Monthly Income
-* Average Years at Company
-* Attrition vs Target (Gauge)
-* Attrition by Education
-* Department-wise Attrition
-* Attrition by Job Role
-* Employee Lifecycle (Tenure vs Attrition)
+![image alt](https://github.com/SatyaGanesh07/employee-attrition-analytics-snowflake-powerbi/blob/243cce7ce44af171dd6f66173152de144823d4fc/Dashboard/Overview%201.png)
 
 ---
 
-### 2️⃣ Attrition Drivers
+### 2️) Attrition Drivers
 
 **Purpose:** Identify *why* employees are leaving
 
-**Key Features:**
-
-* Attrition by Experience Level
-* Income-based Attrition Risk
-* Business Travel Exposure
-* Satisfaction vs Overtime
-* Workforce Structure by Job Level
-* Distance & Overtime Impact
-* High-Risk Attrition KPI (Junior + Low Income)
+![image alt](https://github.com/SatyaGanesh07/employee-attrition-analytics-snowflake-powerbi/blob/243cce7ce44af171dd6f66173152de144823d4fc/Dashboard/Attrition%20driver.png)
 
 ---
-
-### 3️⃣ Conclusion
+### 3️) Conclusion
 
 **Purpose:** Translate insights into business understanding
 
-**Key Features:**
+![image alt](https://github.com/SatyaGanesh07/employee-attrition-analytics-snowflake-powerbi/blob/243cce7ce44af171dd6f66173152de144823d4fc/Dashboard/Conclusion.png)
 
-* Key Business Implications (text insights)
-* Attrition by Experience Level with Overtime
-* Overtime Impact on Attrition
-* Experience-level summary table
-* Executive KPIs (contextualized, no filters)
 
-This page is intentionally **filter-free** to present **clear, stable conclusions**.
 
 ---
 
@@ -247,14 +222,5 @@ Overall, the project reflects an **analytics engineering mindset**, combining da
 
 ## Contact
 
-For questions or feedback, feel free to connect with me on LinkedIn:
-🔗 **Satya Ganesh**
-*(Add your LinkedIn URL here)*
-
----
-
-If you want, next I can:
-
-* Tighten this further for **recruiter readability**
-* Add **SQL & DAX snippets section**
-* Review it strictly from a **data analyst interview perspective**
+For any questions or suggestions, please open an issue or contact me via LinkedIn:  
+[Satya Ganesh LinkedIn](https://www.linkedin.com/in/satya-ganesh-5a89b2283/)
