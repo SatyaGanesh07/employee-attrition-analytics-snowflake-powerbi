@@ -162,7 +162,8 @@ This layered approach ensures **traceability, auditability, and scalability**.
 
 ![image alt](https://github.com/SatyaGanesh07/employee-attrition-analytics-snowflake-powerbi/blob/243cce7ce44af171dd6f66173152de144823d4fc/Dashboard/Conclusion.png)
 
-
+### 4) Data Modeling 
+![image alt](https://github.com/SatyaGanesh07/Employee-Attrition-Analytics-Snowflake-PowerBi/blob/95b7e1932bcd1d46cf8f18d5b62babae24270a76/Dashboard/Data%20Modeling.png)
 
 ---
 
