@@ -9,8 +9,7 @@ CSV → Snowflake Data Warehouse → Dimensional Model → Power BI Semantic Mod
 
 ## 🔗 Live Dashboard
 
-👉 *[Power BI Service – View Dashboard]*
-*(Add your published link here)*
+👉 [  View   ](https://app.powerbi.com/view?r=eyJrIjoiNDlkYWFhNzQtN2Q2NC00OWZjLTk5ZWUtNzQ5NmZlN2QyMDc0IiwidCI6ImRjODhkNWNiLWMxMjEtNDUzYi1hMGRiLTFmMzlmYjEyMjJiMyJ9)
 
 ---
 
